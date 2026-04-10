@@ -19,16 +19,16 @@ Certifique-se de ter o **Node.js** instalado na sua máquina.
 ### 1. Clonar o repositório e instalar dependências
 No terminal, escolha a pasta onde deseja baixar o projeto e execute:
 ```bash
-git clone [https://github.com/matheussd1/AV1.git](https://github.com/matheussd1/AV1.git)
-cd AV1
-npm install
+- git clone [https://github.com/matheussd1/AV1.git](https://github.com/matheussd1/AV1.git)
+- cd AV1
+- npm install
 ```
 
 ### 2. Iniciar o sistema
 Para rodar o projeto diretamente via terminal usando o compilador TypeScript:
 
 ```Bash
-npx ts-node src/index.ts
+- npx ts-node src/index.ts
 ```
 
 ---
