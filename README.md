@@ -19,7 +19,7 @@ Certifique-se de ter o **Node.js** instalado na sua máquina.
 ### 1. Clonar o repositório e instalar dependências
 No terminal, escolha a pasta onde deseja baixar o projeto e execute:
 ```bash
-- git clone [https://github.com/matheussd1/AV1.git](https://github.com/matheussd1/AV1.git)
+- git clone https://github.com/matheussd1/AV1.git
 - cd AV1
 - npm install
 ```
